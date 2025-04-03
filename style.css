@@ -1,13 +1,13 @@
 /* Basic Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 /* Navigation Bar */
 nav {
-    background-color: #333;
+    background-color: #f1e647;
     padding: 10px 0;
 }
 
